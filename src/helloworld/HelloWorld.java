@@ -16,6 +16,8 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int number = 0;
+        System.out.println(number); 
     }
     
 }
